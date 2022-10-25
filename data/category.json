@@ -1,0 +1,30 @@
+[
+    {
+      "id": "01",
+      "name": "Programming Language Courses"
+    },
+    {
+      "id": "02",
+      "name": "Graphics Designing Courses"
+    },
+    {
+      "id": "03",
+      "name": "Data Entry Operating"
+    },
+    {
+      "id": "04",
+      "name": "Cyber Security"
+    },
+    {
+      "id": "05",
+      "name": "VFX & Animation"
+    },
+    {
+      "id": "06",
+      "name": "Full Web Development Course"
+    },
+    {
+      "id": "07",
+      "name": "All"
+    }
+  ]
